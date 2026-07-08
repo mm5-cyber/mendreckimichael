@@ -18,7 +18,7 @@ Highly motivated and detail-oriented cybersecurity and networking enthusiant see
 | Active Directory | <a>In Progress</a>| 
 
 
-# Tools Used 
+# Tools
 
 - CISCO Packet Tracer
 - Active Directory
