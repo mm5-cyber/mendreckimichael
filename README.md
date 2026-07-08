@@ -23,7 +23,7 @@ Highly motivated and detail-oriented cybersecurity and networking enthusiant see
 - CISCO Packet Tracer
 - Active Directory
 - Linux
-
+- O365
 
 ## Certifications
 <div>
