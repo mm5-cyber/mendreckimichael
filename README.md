@@ -15,7 +15,7 @@ Highly motivated and detail-oriented cybersecurity and networking enthusiant see
 | Network Infrastructure Configuration         | <a href="https://github.com/mm5-cyber/Home-Lab-Infrastructure-Secure-Router-Configuration-">Secure Router Config</a>|
 |Protect & Defending Against Adware| <a href="https://github.com/mm5-cyber/Adware-Remediation-and-Prevention-for-Samsung-Device"> Adware Remediation and Prevention</a>| 
 | Network Architecture and Design Through Cisco Packet Tracer| <a href="https://github.com/mm5-cyber/Configuring-a-DHCP-server-and-DHCP-Relay-Agent-Configuration">Configuring a DHCP server, and DHCP Relay Agent</a>|  
-| Active Directory | <a href="https://github.com/mm5-cyber/Active-Directory-Lab">Active Directory Lab</a>|  
+| Active Directory | <a>Active Directory Lab</a>|  
 | Linux | <a href="https://github.com/mm5-cyber/Active-Directory-Lab">In Progress</a>| 
 
 
