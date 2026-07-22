@@ -32,3 +32,7 @@ Highly motivated and detail-oriented cybersecurity and networking enthusiant see
       <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
     </a>
 </div>
+
+## TryHackMe Documentation 
+
+<a href="https://github.com/mm5-cyber/TryHackMe-Labs">Click Here</a>
